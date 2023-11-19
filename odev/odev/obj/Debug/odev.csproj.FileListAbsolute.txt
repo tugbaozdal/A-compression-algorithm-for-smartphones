@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\visual udemy\odev\odev\bin\Debug\odev.exe.config
+C:\Users\lenovo\Desktop\visual udemy\odev\odev\bin\Debug\odev.exe
+C:\Users\lenovo\Desktop\visual udemy\odev\odev\bin\Debug\odev.pdb
+C:\Users\lenovo\Desktop\visual udemy\odev\odev\obj\Debug\odev.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\visual udemy\odev\odev\obj\Debug\odev.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\visual udemy\odev\odev\obj\Debug\odev.exe
+C:\Users\lenovo\Desktop\visual udemy\odev\odev\obj\Debug\odev.pdb
